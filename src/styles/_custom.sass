@@ -1,19 +1,218 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: fadeIn 3s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
-  &-2
-    animation: float1 2.8s ease-in-out infinite alternate
-    position: absolute
-    top: 51%
-    right: 30%
+    top: 8%
+    right: 34%
+ 
+
+@keyframes fadeIn 
+  0% 
+    opacity: 0
+  100% 
+    opacity: 1
+
+.banner-principal__img 
+  padding-top: 0rem !important
+  padding-bottom: 0rem !important
+  margin-left: -14%
+  width: 41.5%
+  margin-top: -7px 
+
+.banner-principal__descripcion 
+  margin-right: 100px  
+
+.banner-interno__fondo
+  background-image: url("../assets/curso/temas/banner-interno.svg") !important  
+
+.bg_slyder_acordeon
+  position: relative
+  width: 100% 
+  background-image: url("../assets/curso/temas/tema2/slider-acordeon.svg") 
+  background-size: cover
+  background-position: left top
+  background-repeat: no-repeat
+  border-radius: 15px       
+
+.bg_acordeon_tema7
+  position: relative
+  background-image: url("../assets/curso/temas/tema7/bg.png") 
+  background-size: cover
+  background-position: left top
+  background-repeat: no-repeat
+
+.bg_final
+  position: relative
+  background-image: url("../assets/curso/temas/tema7/bg-2.png") 
+  background-size: cover
+  background-position: left top
+  background-repeat: no-repeat    
 
 
-@keyframes float1
-  0%
-    transform: translateY(20px)
+.color-bloque-texto-verde-primario:before  
+  background-color: #D2F3F8 !important 
+  top: -15% !important
+  left: -1% !important
+  bottom: 20% !important
+  right: 55% !important
 
-  100%
-    transform: translateY(0px)
+.color-secundario-cajon-verde
+  background-color: #D2F3F8 !important 
+
+.img-cajon 
+  position: absolute
+  bottom: 0
+  right: 36rem
+  z-index: 1
+
+.img-cajon-2 
+  position: absolute
+  bottom: -35px
+  right: -3rem
+  z-index: 1  
+
+.img-cajon-3
+  position: absolute
+  bottom: -1px
+  right: 38rem
+  left: -3rem
+  z-index: 1
+
+
+.img-cajon-4
+  position: absolute
+  bottom: 158px
+  right: 7rem
+  left: 7rem
+  z-index: 1 
+
+.img-cajon-5
+  position: absolute
+  bottom: 76px
+  right: 2rem
+  z-index: 1   
+  
+
+.tarjeta-acordeon
+    background-color: #C3CFD9 !important  
+
+.acordion__activo 
+    background-color: #EEDCA5 !important     
+
+.acordion__accion__btn--a
+   background-color: #0B5999 !important
+   color: #fff !important    
+
+.color-vineta-li--vineta
+  color: #0B5999 !important
+
+.bg_slyder_acordeon.acordion__activo
+  background-color: #ffffff00   !important 
+
+.lista-ol--cuadro__vineta
+  background-color: #FD9927 !important   
+
+.bloque-img-left 
+  left: 50% !important
+
+@media (max-width:500px)  
+  .bloque-img-left  
+    left: 0% !important 
+
+
+.bloque-text-rigth
+   right: 39% !important 
+@media (max-width:500px)  
+  .bloque-text-rigth  
+    right: 0% !important  
+
+.tabs-b__content-item
+  background-color: #DDE6EC !important 
+
+.tabs-c__content-item  
+  background-color: #DDE6EC !important
+
+.tabs-c__header
+  margin-bottom: 0px !important  
+
+.text-m-t
+  margin-top: 9rem !important 
+
+.avatar
+  position: absolute
+  bottom: 0
+  right: -4rem
+  z-index: 1
+  @media (max-width: 1000px)
+    display: none
+
+
+
+.crd--avatarHorizontal
+  position: relative
+  padding-right: 2rem  
+  & > *
+    position: relative
+  h5 
+    color: #000
+  p 
+    margin-bottom: 0
+  &::before  
+    position: absolute 
+    content: ''
+    top: 0
+    right: 0
+    width: calc( 100% - 60px)
+    height: 100%
+    background-color: #FAF1E8
+    border-radius: 30px
+
+  @media (max-width: 1000px)
+    padding-right: 2rem           
+
+
+.linea-tiempo-d.color-secundario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number 
+  background-color: #FECC93 !important
+  color: #000 !important
+    
+.linea-tiempo-d.color-secundario .linea-tiempo-d__item .linea-tiempo-d__item__number 
+  background-color: #FECC93 !important
+  color: #000 !important
+
+.linea-tiempo-d__item__content.tarjeta.tarjeta--gris
+  background-color: #FAF1E8 !important 
+
+
+.linea-tiempo-d__item__dots:after 
+  border-left: 5px dotted #FECC93 !important
+
+.color-secundario-cajon-azul
+  background-color: #0B5999 !important 
+  color: #fff !important 
+
+
+/* escritorio normales */
+@media (min-width: 800px) 
+  .cajon-mt
+    margin-top: 15rem !important
+
+
+/* pantallas grandes */
+@media (min-width: 1200px) 
+  .cajon-mt
+    margin-top: 20rem !important 
+
+  
+.mg-img
+   margin: -48px !important 
+
+@media (max-width:500px)   
+    .mg-img
+      margin: -0px !important  
+
+.mg-img-final
+   padding-bottom: 148px !important
+   padding-top: 52px !important       
+
+.t-img      
+  margin-top: 3rem !important;   
