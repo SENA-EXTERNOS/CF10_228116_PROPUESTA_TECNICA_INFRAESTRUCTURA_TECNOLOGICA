@@ -11,10 +11,10 @@
 
     p.mt-5.mb-5 La cotización técnica es un documento formal en donde se detalla el precio de un bien o servicio para el proceso de compra o negociación. Determina el valor real de un bien, de un servicio o de un activo financiero. 
     .row.justify-content-center.mb-5
-     .col-md-4
+     .col-md-6
         figure(data-aos="fade-right")
           img(src='@/assets/curso/temas/tema3/img1.png', alt='alt')       
-     .col-md-8 
+     .col-md-6
       ol.lista-ol--cuadro.lista-ol--separador
         li 
           .lista-ol--cuadro__vineta
@@ -53,7 +53,7 @@
 
     <separador></separador>
     #t_3_2.titulo-segundo.color-primario.mt-5
-      h2 3.1 Concepto y tipos
+      h2 3.2 caracteristicas
 
     .row.justify-content-center.mt-5        
       .col-md-5

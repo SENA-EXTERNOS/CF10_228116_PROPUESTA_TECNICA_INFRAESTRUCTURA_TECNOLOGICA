@@ -46,8 +46,17 @@
   background-image: url("../assets/curso/temas/tema7/bg-2.png") 
   background-size: cover
   background-position: left top
-  background-repeat: no-repeat    
+  background-repeat: no-repeat 
 
+.bg_cajon
+  position: relative
+  width: 100% 
+  background-image: url("../assets/curso/temas/tema5/img14.svg") 
+  background-size: cover  
+  background-repeat: no-repeat   
+  background-position: left top
+  @media (max-width: 1000px)
+     background-image: url("")    
 
 .color-bloque-texto-verde-primario:before  
   background-color: #D2F3F8 !important 
@@ -59,11 +68,13 @@
 .color-secundario-cajon-verde
   background-color: #D2F3F8 !important 
 
+
 .img-cajon 
   position: absolute
   bottom: 0
-  right: 36rem
   z-index: 1
+  @media (max-width: 1000px)
+    display: none  
 
 .img-cajon-2 
   position: absolute
@@ -216,3 +227,10 @@
 
 .t-img      
   margin-top: 3rem !important;   
+
+.img-img-gris
+   padding-bottom: 60px !important
+   padding-top: 52px !important    
+
+.color-white
+  color: #fff !important   

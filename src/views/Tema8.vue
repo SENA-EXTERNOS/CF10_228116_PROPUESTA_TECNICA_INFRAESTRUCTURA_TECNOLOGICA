@@ -69,7 +69,7 @@
 
       AcordionA(tipo="b" clase-tarjeta="bg_slyder_acordeon").mt-5
         .row(titulo="Flexibilidad:")
-          .col-md-7.mb-4.mb-md-0
+          .col-md-7.mb-4.mb-md-0.mt-5
             p es la capacidad que tienen tanto el #[i software] como el #[i hardware] para adaptarse a múltiples propósitos en lugar de una sola función
             p Los productos flexibles de #[i hardware] y #[i software] proporcionan un valor adicional, ya que se pueden usar de muchas maneras diferentes.
           .col-md-5
@@ -77,28 +77,28 @@
               img(src='@/assets/curso/temas/tema8/img5.png', alt='')
 
         .row(titulo="Escalabilidad:")
-          .col-md-7.mb-4.mb-md-0
+          .col-md-7.mb-4.mb-md-0.mt-5
             p capacidad de adaptación y respuesta que tiene el #[i hardware] o #[i software] con respecto al rendimiento de este a medida que aumentan de forma significativa el número de usuarios. La escalabilidad de un sistema es un aspecto complejo e importante del diseño, ya que se debe agregar hardware adicional o actualizar el existente sin modificar mucho la aplicación.            
           .col-md-5
             figura
               img(src='@/assets/curso/temas/tema8/img6.png', alt='')
         
         .row(titulo="Seguridad:")
-          .col-md-7.mb-4.mb-md-0
+          .col-md-7.mb-4.mb-md-0.mt-5
             p protección propia tanto del #[i hardware] como del #[i software] ante las amenazas que podría afectar a equipos y programas.  El número de programas y/o aplicaciones que añadimos a nuestros computadores guardan todo tipo de información relevante sobre nosotros, un historial significativo de las consultas y visitas a los diferentes sitios de la web y el trabajo de las diferentes aplicaciones para realizar tareas a diario. Impedir que cualquier persona pueda acceder a ellos y robarnos nuestros datos es un campo fundamental de la ciberseguridad. 
           .col-md-5
             figura
               img(src='@/assets/curso/temas/tema8/img7.png', alt='')              
 
         .row(titulo="Sencillez:")
-          .col-md-7.mb-4.mb-md-0
+          .col-md-7.mb-4.mb-md-0.mt-5
             p capacidad de comprensión, facilidad en el manejo y adaptabilidad gráfica de interpretación en el manejo del entorno y de la información que es suministrada para ser procesada e interpretada por el usuario final.
           .col-md-5
             figura
               img(src='@/assets/curso/temas/tema8/img8.png', alt='')    
 
         .row(titulo="Fiabilidad:")
-          .col-md-7.mb-4.mb-md-0
+          .col-md-7.mb-4.mb-md-0.mt-5
             p capacidad de buen funcionamiento o rendimiento que tienen tanto el #[i hardware] como el #[i software]. Para ello el estudio en su adquisición que involucran ciertas características que poseen en cuanto a marca y configuración potencializarán esta cualidad de fiabilidad.  
           .col-md-5
             figura

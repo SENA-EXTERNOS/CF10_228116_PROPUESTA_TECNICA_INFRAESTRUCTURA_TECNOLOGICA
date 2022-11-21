@@ -11,7 +11,7 @@
       h2 1.1  Concepto y características
 
     .row.justify-content-center.mb-5
-      .col-md-8
+      .col-md-8.mt-5
         .bloque-texto-b.color-bloque-texto-verde-primario
           .bloque-texto-b__texto
             p Una ficha técnica de producto o servicio es un documento en el cual se detallan todas las características y funciones de un producto, incluyendo su composición, características físicas y técnicas, tamaños, recomendaciones, modos de uso, y otros datos relevantes.  Allí podemos ver lo más importante acerca de ese elemento en una sola mirada o vista.
@@ -29,12 +29,13 @@
                 figure
                   img(src='@/assets/curso/temas/tema1/img2.svg', alt='alt')             
             .col-md-7
-             p Las características de una ficha técnica son las siguientes:
+              p Las características de una ficha técnica son las siguientes:
               ol.lista-ol--cuadro
                 li #[span.text-bold >] Información resumida y de mucha utilidad, lo más importante acerca de un producto, elemento o servicio.
                 li #[span.text-bold >] Transmite información relevante.  
                 li #[span.text-bold >] Información contenida debe ser verdadera y comprobada.
                 li #[span.text-bold >] Los datos deben ser claros y exactos.
+  
 
     figure(data-aos="fade-left").mt-5
       img(src='@/assets/curso/temas/tema1/img3.png', alt='alt') 

@@ -2,6 +2,11 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
+    .titulo-principal.color-acento-contenido
+        .titulo-principal__numero
+          span
+            i.fas.fa-info.color-white
+        h1 Sintesis
 
     p Dentro de la evaluación de una Propuesta técnica de infraestructura tecnológica, el aprendiz podrá integrar elementos fundamentales, básicos e importantes que le permitirán determinar con propiedad absoluta todo un conjunto de conocimientos tecnológicos acorde a una normatividad y estándares técnicos.
     .row.justify-content-center.mt-5

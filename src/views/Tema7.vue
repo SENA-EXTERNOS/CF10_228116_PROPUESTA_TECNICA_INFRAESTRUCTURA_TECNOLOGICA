@@ -20,7 +20,7 @@
 
     
      
-    .row.justify-content-center.bg_acordeon_tema7.mg-img.mt-5.mg-img-final.t-img 
+    .row.justify-content-center.bg_acordeon_tema7.mg-img.mt-5.img-img-gris.t-img 
       p.mb-5.mt-5.px-5 Para el inventario de #[i hardware] se requiere usar el modelo clásico de inventarios. Los diferentes campos de una tabla de Excel deben tener:   
       .col-md-4
         figure

@@ -80,17 +80,13 @@
     h4 Utilidad
     p.mt-5.mb-5  Es la funcionalidad que ofrece un producto o servicio para satisfacer una necesidad particular. Se utiliza para determinar si un servicio es «adecuado para su propósito». Para tener utilidad, un servicio debe respaldar el desempeño del consumidor o eliminar las limitaciones del consumidor; muchos servicios hacen ambas cosas.
     .row.justify-content-center.mt-5
-      .col-md-12.mt-5
-        .cajon.color-secundario.color-secundario-cajon-verde.p-2
-          .row.justify-content-center.p-2
-            .col-md-5
-              .img-cajon-3 
-                figure
-                  img(src='@/assets/curso/temas/tema5/img12.png', alt='alt') 
-            .col-md-7
+      .col-md-11.bg_cajon.mt-5
+          .row.justify-content-end.p-3
+            .col-md-7.mt-4
               p.text-bold Tanto la utilidad como la garantía son esenciales para que un servicio facilite los resultados deseados y, por lo tanto, ayude a crear valor.
               p Por ejemplo, un parque temático recreativo puede ofrecer muchas atracciones diseñadas para brindar experiencias emocionantes a los visitantes del parque (servicios públicos), pero sí una cantidad significativa de atracciones no está disponible con frecuencia, debido a dificultades mecánicas, el parque no está cumpliendo con la garantía (es no apto para su uso) y los  consumidores no recibirán el valor esperado. 
               p Asimismo, si las atracciones están siempre en funcionamiento durante las horas anunciadas, pero no tienen características que brinden los niveles de emoción esperados por los visitantes, la utilidad no se cumple aunque la garantía sea suficiente. Nuevamente, los consumidores no recibirían el valor esperado.                       
+            
               
     h4.mt-5 Riesgos
     p.mt-5.mb-5  Introducción	Se define como un evento inesperado en un momento. Si nos enfocamos en la parte tecnológica podemos concluir que dicho riesgo hace referencia a un producto o a un software (programa), en el cual se pasó por alto tener en cuenta ciertos detalles en su construcción, ya sea para el diseño del programa o para la elaboración de un producto.
