@@ -48,6 +48,7 @@
         figure(data-aos="fade-left")
           img(src='@/assets/curso/temas/tema9/img3.png', alt='alt') 
 
+    p.mt-5 Teniendo en cuenta lo anterior, las ventajas del plan de contingencia serían:
     .row.justify-content-center.bg_final.mg-img.mt-5.mg-img-final.t-img           
       .col-md-7     
         figure

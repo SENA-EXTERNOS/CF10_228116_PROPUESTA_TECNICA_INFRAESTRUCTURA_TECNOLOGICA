@@ -37,7 +37,7 @@
     #t_10_2.titulo-segundo.color-primario.mt-5
       h2 10.2 Tipos y componentes
     
-    p.mt-mb-5 Introducción	Los tipos de seguridad para acceder a la información se dividen en:
+    p.mt-mb-5 Los tipos de seguridad para acceder a la información se dividen en:
     TabsC.color-primario
       .py-3.py-md-4(titulo="Seguridad de <i>hardware</i>")
         .row.px-4

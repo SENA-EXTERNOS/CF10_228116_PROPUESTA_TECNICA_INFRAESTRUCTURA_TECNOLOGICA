@@ -320,12 +320,12 @@ export default {
     {
       termino: 'Garantía',
       significado:
-        'Garantía:	es una obligación, temporal, solidaria a cargo del productor y proveedor de responder por el buen estado del producto.  (Ley 1480 de 2022, Estatuto del Consumidor).',
+        'es una obligación, temporal, solidaria a cargo del productor y proveedor de responder por el buen estado del producto.  (Ley 1480 de 2022, Estatuto del Consumidor).',
     },
     {
       termino: 'Inventario',
       significado:
-        'Inventario:	relación detallada, ordenada y valorada de todos los bienes de una empresa. Sirve para comprobar o determinar la existencia física exacta de los bienes a una fecha definida.',
+        'relación detallada, ordenada y valorada de todos los bienes de una empresa. Sirve para comprobar o determinar la existencia física exacta de los bienes a una fecha definida.',
     },
     {
       termino: 'Logística',

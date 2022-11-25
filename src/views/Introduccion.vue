@@ -19,7 +19,7 @@
             p Estimado aprendiz: en este componente formativo encontrará las herramientas necesarias para acercarse a la verificación y evaluación de la Propuesta técnica de la infraestructura tecnológica proporcionada por proveedores y fabricantes, basada en elementos fundamentales para poderla interpretar, analizar y evaluar a través de la aplicación de los conocimientos claros y sencillos, según ejemplos del entorno real de las pequeñas, medianas y grandes empresas.
 
       .col-md-6.mt-5
-        p.mt-5.mb-5 El ir abordando cada una de las temáticas de este componente como son ficha técnica, cuadro comparativo, cotizaciones, catálogos de fabricantes, garantía, inventarios de hardware y software, procedimientos administrativos y logísticos y la seguridad de la información, le facilitará la adquisición de programas de software y equipos de cómputo con tecnologías de punta que incursionan en el mercado y que cuentan con garantías que proyectan la confianza en la consecución de estos.
+        p.mt-5.mb-5 El ir abordando cada una de las temáticas de este componente como son ficha técnica, cuadro comparativo, cotizaciones, catálogos de fabricantes, garantía, inventarios de #[i hardware] y #[i software], procedimientos administrativos y logísticos y la seguridad de la información, le facilitará la adquisición de programas de #[i software] y equipos de cómputo con tecnologías de punta que incursionan en el mercado y que cuentan con garantías que proyectan la confianza en la consecución de estos.
         p Por favor explore con atención el siguiente video que le mostrará lo que debe tener presente a la hora de la selección y adquisición de equipos de #[i hardware] y programas de #[i software.]
       .col-md-5.mt-5
         figure(data-aos="zoom-left")

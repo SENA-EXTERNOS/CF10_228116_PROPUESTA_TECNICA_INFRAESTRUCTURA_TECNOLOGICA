@@ -44,6 +44,7 @@
     #t_1_2.titulo-segundo.color-primario.mt-5
       h2 1.2  Usos y elaboración
 
+    p.mt-5.mb-5 A continuación, exploraremos los usos y la elaboración de una ficha técnica.
     AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-acordeon").mt-5
       .row(titulo="Usos").p-2
         .row.justify-content-center

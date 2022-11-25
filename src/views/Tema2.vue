@@ -22,7 +22,7 @@
     
     <separador></separador>
     #t_2_2.titulo-segundo.color-primario.mt-5
-      h2 Usos y elaboración
+      h2 2.2 Usos y elaboración
 
     .row.justify-content-center.mt-5
       AcordionA(tipo="b" clase-tarjeta="bg_slyder_acordeon")
