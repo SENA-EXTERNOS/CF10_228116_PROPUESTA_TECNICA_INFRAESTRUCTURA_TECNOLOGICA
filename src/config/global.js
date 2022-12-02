@@ -383,7 +383,8 @@ export default {
     {
       referencia:
         'Análisis y evaluación de riesgos de seguridad de la información: identificación de amenazas, consecuencias y criticidad. (2019, octubre 18). Software ISO. ',
-      link: 'https://www.isotools.org/2019/10/18/analisis-y-evaluacion-de-riesgos-de-seguridad-de-la-informacion-identificacion-de-amenazas-consecuencias-y-criticidad/',
+      link:
+        'https://www.isotools.org/2019/10/18/analisis-y-evaluacion-de-riesgos-de-seguridad-de-la-informacion-identificacion-de-amenazas-consecuencias-y-criticidad/',
     },
     {
       referencia:
