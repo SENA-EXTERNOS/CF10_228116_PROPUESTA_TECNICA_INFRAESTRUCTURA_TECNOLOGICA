@@ -371,19 +371,19 @@ export default {
     },
     {
       referencia:
-        'Suárez, D., (28 de septiembre del 2021) <i>Una forma de interpretar la seguridad informática.</i>',
+        'Romero, M. I., Grace, C., Figueroa, L., Denisse, M., Vera, S., José, N., Álava, E., Galo, C., Parrales, R., Christian, A., Álava, J., Ángel, M., Murillo Quimiz, L., Adriana, M., & Merino, C. (s/f). INTRODUCCIÓN A LA SEGURIDAD INFORMÁTICA Y EL ANÁLISIS DE VULNERABILIDADES. 3ciencias.com. Recuperado el 2 de diciembre de 2022,',
       link:
-        'http://repository.lasallista.edu.co:8080/ojs/index.php/jet/article/view/1015',
+        'https://www.3ciencias.com/wp-content/uploads/2018/10/Seguridad-inform%C3%A1tica.pdf',
     },
     {
       referencia:
-        'Taipe H., (2020) <i>Seguridad informática y evaluación de riesgos en los activos de información del Instituto Nacional de Estadística e Informatica-junin</i>',
-      link: 'https://hdl.handle.net/20.500.12848/ ',
+        'Taipe Robles, H. (2020). Seguridad informática y evaluación de riesgos en los activos de información del Instituto Nacional de Estadística e Informática - Junín. Universidad Peruana Los Andes. Recuperado de: ',
+      link: 'https://repositorio.upla.edu.pe/handle/20.500.12848/1713',
     },
     {
       referencia:
-        'Tejena M, A., (2018). <i>Análisis de riesgos en seguridad de la información.</i>',
-      link: 'https://dx.doi.org/10.23857/pc.v3i4.809 ',
+        'Análisis y evaluación de riesgos de seguridad de la información: identificación de amenazas, consecuencias y criticidad. (2019, octubre 18). Software ISO. ',
+      link: 'https://www.isotools.org/2019/10/18/analisis-y-evaluacion-de-riesgos-de-seguridad-de-la-informacion-identificacion-de-amenazas-consecuencias-y-criticidad/',
     },
     {
       referencia:
