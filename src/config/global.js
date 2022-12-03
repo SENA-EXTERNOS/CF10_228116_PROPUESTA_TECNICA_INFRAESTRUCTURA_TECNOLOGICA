@@ -350,8 +350,10 @@ export default {
       link: 'https://ficha.top/ficha-tecnica/',
     },
     {
-      referencia: 'Ley 1480 de 2022, Estatuto del Consumidor.',
-      link: '',
+      referencia:
+        'Ley 1480 de 2022, Estatuto del Consumidor.<br>Ley 1480. (s/f). Gov.co. Recuperado el 2 de diciembre de 2022, de ',
+      link:
+        'https://www.sic.gov.co/sites/default/files/files/Nuestra_Entidad/Publicaciones/ESTATUTO_sept10_2018_v2.pdf',
     },
     {
       referencia:
