@@ -31,20 +31,6 @@ export default {
         numero: '1',
         titulo: 'Ficha técnica',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Concepto y características',
-            hash: 't_1_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Usos y elaboración',
-            hash: 't_1_2',
-          },
-        ],
       },
 
       {
@@ -53,20 +39,6 @@ export default {
         numero: '2',
         titulo: 'Cuadro comparativo',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Concepto y tipos',
-            hash: 't_2_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: 'Usos y elaboración',
-            hash: 't_2_2',
-          },
-        ],
       },
       {
         nombreRuta: 'tema3',
@@ -74,20 +46,6 @@ export default {
         numero: '3',
         titulo: 'Cotizaciones técnicas',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.1',
-            titulo: 'Concepto y tipos',
-            hash: 't_3_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.2',
-            titulo: 'Características',
-            hash: 't_3_2',
-          },
-        ],
       },
       {
         nombreRuta: 'tema4',
@@ -102,20 +60,6 @@ export default {
         numero: '5',
         titulo: 'Garantía',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '5.1',
-            titulo: 'Definición y características',
-            hash: 't_5_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '5.2',
-            titulo: 'Tipo de garantías, utilidad y riesgos',
-            hash: 't_5_2',
-          },
-        ],
       },
       {
         nombreRuta: 'tema6',
@@ -123,20 +67,6 @@ export default {
         numero: '6',
         titulo: 'Prueba de funcionamiento',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '6.1',
-            titulo: 'Técnicas',
-            hash: 't_6_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '6.2',
-            titulo: 'Procedimiento de prueba',
-            hash: 't_6_2',
-          },
-        ],
       },
       {
         nombreRuta: 'tema7',
@@ -158,20 +88,6 @@ export default {
         numero: '9',
         titulo: 'Procedimientos logísticos de la organización',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '9.1',
-            titulo: 'Protocolos',
-            hash: 't_6_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '9.2',
-            titulo: 'Manejo de contingencias',
-            hash: 't_9_2',
-          },
-        ],
       },
       {
         nombreRuta: 'tema10',
@@ -179,38 +95,6 @@ export default {
         numero: '10',
         titulo: 'Seguridad de la información',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '10.1',
-            titulo: 'Concepto y características',
-            hash: 't_10_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '10.2',
-            titulo: 'Tipos y componentes',
-            hash: 't_10_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '10.3',
-            titulo: 'Marcos de referencia',
-            hash: 't_10_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '10.4',
-            titulo: 'Buenas prácticas',
-            hash: 't_10_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '10.5',
-            titulo: 'Estándares y normativa',
-            hash: 't_10_5',
-          },
-        ],
       },
     ],
     subMenu: [
@@ -373,7 +257,7 @@ export default {
     },
     {
       referencia:
-        'Romero, M. I., Grace, C., Figueroa, L., Denisse, M., Vera, S., José, N., Álava, E., Galo, C., Parrales, R., Christian, A., Álava, J., Ángel, M., Murillo Quimiz, L., Adriana, M., & Merino, C. (s/f). INTRODUCCIÓN A LA SEGURIDAD INFORMÁTICA Y EL ANÁLISIS DE VULNERABILIDADES. 3ciencias.com. Recuperado el 2 de diciembre de 2022,',
+        'Romero, M. I., Grace, C., Figueroa, L., Denisse, M., Vera, S., José, N., Álava, E., Galo, C., Parrales, R., Christian, A., Álava, J., Ángel, M., Murillo Quimiz, L., Adriana, M., & Merino, C. (s/f). INTRODUCCIÓN A LA SEGURIDAD INFORMÁTICA Y EL ANÁLISIS DE VULNERABILIDADES. 3ciencias.com. Recuperado el 2 de diciembre de 2022, de',
       link:
         'https://www.3ciencias.com/wp-content/uploads/2018/10/Seguridad-inform%C3%A1tica.pdf',
     },

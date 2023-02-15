@@ -16,10 +16,9 @@
       .col.md-4
         figure(data-aos="fade-left")
           img(src='@/assets/curso/temas/tema9/img1.png', alt='alt')   
+    p Para realizar un procedimiento logístico, se debe tener en cuenta que existen protocolos, los cuales sirven como prevención ante cualquier suceso y planes de contingencia, en caso de requerir una acción correctiva.
 
-    <separador></separador>
-    #t_9_1.titulo-segundo.color-primario.mt-5
-      h2 9.1 Protocolos
+    h3(data-aos="fade-right").mt-5 Protocolos
 
     .row.justify-content-center.mt-5
       .col-md-12
@@ -32,13 +31,11 @@
             p Estas alertas pueden ser, según la complejidad del caso:<br><br>
             ol.lista-ol--cuadro
               li 
-              |#[span.text-bold.color-vineta-li--vineta >] Alerta verde que permiten prever la ocurrencia, alerta amarilla implica diferentes situaciones próximas de riesgo
+              |#[span.text-bold.color-vineta-li--vineta >] Alerta verde que permiten prever la ocurrencia, alerta amarilla implica diferentes situaciones próximas de riesgo.
               li 
               |#[span.text-bold.color-vineta-li--vineta >] Alerta roja indica la ocurrencia de una parte o de la totalidad del riesgo, presentando efectos radicales.
       
-    <separador></separador>
-    #t_9_2.titulo-segundo.color-primario.mt-5
-      h2 9.2 Manejo de contingencias
+    h3(data-aos="fade-right").mt-5 Manejo de contingencias
 
     .row.justify-content-center.mt-5      
       .col-md-8

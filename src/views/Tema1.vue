@@ -7,9 +7,6 @@
         span.text-white 1
       h1 Ficha técnica
 
-    #t_1_1.titulo-segundo.color-primario.mt-5
-      h2 1.1  Concepto y características
-
     .row.justify-content-center.mb-5
       .col-md-8.mt-5
         .bloque-texto-b.color-bloque-texto-verde-primario
@@ -19,7 +16,7 @@
       .col.md-4
         figure(data-aos="fade-left")
           img(src='@/assets/curso/temas/tema1/img1.png', alt='alt') 
-
+    h3(data-aos="fade-right") Características de una ficha técnica 
     .row.justify-content-center.mt-5
       .col-md-11.mt-5
         .cajon.color-secundario.color-secundario-cajon-verde.p-3
@@ -36,13 +33,12 @@
                 li #[span.text-bold >] Información contenida debe ser verdadera y comprobada.
                 li #[span.text-bold >] Los datos deben ser claros y exactos.
   
-
+    h3(data-aos="fade-right").mt-5 Elementos de una ficha técnica
+    p Los elementos que contiene una ficha técnica son:
     figure(data-aos="fade-left").mt-5
       img(src='@/assets/curso/temas/tema1/img3.png', alt='alt') 
 
-    <separador></separador>
-    #t_1_2.titulo-segundo.color-primario.mt-5
-      h2 1.2  Usos y elaboración
+    h3(data-aos="fade-right").mt-5 Usos y elaboración de la ficha técnica
 
     p.mt-5.mb-5 A continuación, exploraremos los usos y la elaboración de una ficha técnica.
     AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-acordeon").mt-5
@@ -60,13 +56,14 @@
            figure(data-aos="fade-left")
             img(src='@/assets/curso/temas/tema1/img5.png', alt='alt')  
           .col-md-8          
-            p para la elaboración de una ficha técnica se recomienda:
+            p Para la elaboración de una ficha técnica se debe tener en cuenta lo siguiente:
             ol.lista-ol--cuadro
-              li > Los elementos que contiene de un producto pueden variar según la categoría, el sector empresarial, la marca y el público objetivo. Es por ese motivo que uno de los pasos más importantes para definir qué especificaciones incluir en la ficha técnica de un producto es la selección de la información que puede resultar más relevante para los consumidores. Además, el formato de la ficha técnica de un producto también está sujeto a las regulaciones y normas del comercio local e internacional.  
-              li > Es necesario presentar las características más importantes de lo que se está vendiendo, es decir, se deben incluir todos los puntos que definen el producto y que les permiten a los consumidores tener claro todo lo que necesitan saber sobre él.
-              li 
-              |> Si se trata de un #[i e-commerce ], 
-              |la ficha de un producto debe servir para atraer a los clientes que suelen adquirir productos y servicios de forma online. Es necesario que la ficha esté optimizada para aparecer en las búsquedas de los usuarios, ya que de esta manera es más sencillo llegar al público meta (Machuca, 2022).
+              li.ps-2 
+                p.mb-0.ps-2 #[b >] Los elementos que contiene de un producto pueden variar según la categoría, el sector empresarial, la marca y el público objetivo. Es por ese motivo que uno de los pasos más importantes para definir qué especificaciones incluir en la ficha técnica de un producto es la selección de la información que puede resultar más relevante para los consumidores. Además, el formato de la ficha técnica de un producto también está sujeto a las regulaciones y normas del comercio local e internacional.  
+              li.ps-2 
+                p.mb-0.ps-2 #[b >] Es necesario presentar las características más importantes de lo que se está vendiendo, es decir, se deben incluir todos los puntos que definen el producto y que les permiten a los consumidores tener claro todo lo que necesitan saber sobre él.
+              li.ps-2 
+                p.mb-0.ps-2 #[b >] Si se trata de un #[i e-commerce ], la ficha de un producto debe servir para atraer a los clientes que suelen adquirir productos y servicios de forma online. Es necesario que la ficha esté optimizada para aparecer en las búsquedas de los usuarios, ya que de esta manera es más sencillo llegar al público meta (Machuca, 2022).
 
 
       

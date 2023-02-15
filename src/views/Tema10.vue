@@ -7,9 +7,6 @@
         span.text-white 10
       h1 Seguridad de la información
   
-    #t_10_1.titulo-segundo.color-primario.mt-5
-      h2 10.1 Concepto y características
-
     p.mt-5.mb-5 Es la preservación de la confidencialidad, integridad y disponibilidad de la información. Hoy en día la información corporativa es uno de los activos más importantes que maneja una empresa, convirtiéndose en una herramienta fundamental del sistema de gestión que garantiza la seguridad y resguardo de esta.  A diario estamos amenazados por riesgos que ponen en peligro la integridad de la información y con ello la viabilidad del negocio.
     .row.justify-content-center.mt-5
       .col-md-5
@@ -20,7 +17,7 @@
             .row.justify-content-center.p-3 
               p La importancia de la seguridad informática según la autora Agustina (2019):
               p “Los sistemas pueden contener datos confidenciales, información sobre los procesos y operaciones organizacionales, planes estratégicos y de negocios, secretos comerciales y demás información de vital importancia. Sin embargo, el valor de dicha información se pierde en gran escala si la misma es conocida por personas externas a la empresa”. (p.24)
-              p.text-bold La seguridad informática tiene un papel muy esencial para las empresas, ya que cuida la privacidad, administra y organiza la información como el autor Carvajal lo menciona (2019): #[i “En un mundo en el que las tecnologías de la información y comunicación (TIC) parecen estar presentes en casi todas nuestras actividades diarias poco se ha reflexionado sobre los riesgos que pueden representar las mismas para los seres humanos” (p.19).]
+              p La seguridad informática tiene un papel muy esencial para las empresas, ya que cuida la privacidad, administra y organiza la información, como el autor Carvajal lo menciona (2019): #[b #[i “En un mundo en el que las tecnologías de la información y comunicación (TIC) parecen estar presentes en casi todas nuestras actividades diarias poco se ha reflexionado sobre los riesgos que pueden representar las mismas para los seres humanos” (p.19)]].     
         p.mt-5 Un sistema de gestión de seguridad de la información nos va a permitir:
          ol.lista-ol--cuadro
             li 
@@ -33,9 +30,7 @@
             |#[span.text-bold.color-vineta-li--vineta >] Proteger a nuestra organización                       
               
 
-    <separador></separador>
-    #t_10_2.titulo-segundo.color-primario.mt-5
-      h2 10.2 Tipos y componentes
+    h3(data-aos="fade-right").mt-5 Tipos y componentes
     
     p.mt-mb-5 Los tipos de seguridad para acceder a la información se dividen en:
     TabsC.color-primario
@@ -68,7 +63,7 @@
         figure
             img(src='@/assets/curso/temas/tema10/img5.png', alt='alt')
       .col-md-7.mt-5
-        h5.mt-5 Los componentes de la seguridad del a información son: 
+        h5.mt-5 Los componentes de la seguridad de la información son: 
         ol.lista-ol--cuadro
           li 
           |#[span.text-bold.color-vineta-li--vineta >] Programas antivirus y #[i antispyware.]
@@ -79,18 +74,14 @@
           li 
           |#[span.text-bold.color-vineta-li--vineta >] Diseño de redes privadas virtuales o VPN que proveen de un sistema de acceso remoto y seguro para los sistemas locales.
 
-    <separador></separador>
-    #t_10_3.titulo-segundo.color-primario.mt-5
-      h2 10.3 Marcos de referencia
+    h3(data-aos="fade-right").mt-5 Marcos de referencia
 
     .row.justify-content-center.mt-5
       .col-md-10
         figure
             img(src='@/assets/curso/temas/tema10/img6.png', alt='alt')  
 
-    <separador></separador>
-    #t_10_4.titulo-segundo.color-primario.mt-5
-      h2 10.4 Buenas prácticas
+    h3(data-aos="fade-right").mt-5 Buenas prácticas
 
     p.mt-5.mb-5 La seguridad informática cada día nos exige tener más precauciones al usar nuestros dispositivos móviles que estén bajo el dominio de la red internet o de una red local. Por esto debemos ser usuarios responsables y conscientes de los riesgos que esto conlleva. La pérdida de datos, infecciones de virus, suplantación de la información y robo de datos son asuntos para mantenerse alerta. La solución se dará al aplicar las siguientes buenas prácticas digitales para proteger la información:
 
@@ -147,9 +138,7 @@
               span 9
             | Utilizar aplicaciones de cifrado para la apertura y gestión de la información.
 
-    <separador></separador>
-    #t_10_5.titulo-segundo.color-primario.mt-5
-      h2 10.5 Estándares y normativa
+    h3(data-aos="fade-right").mt-5 Estándares
     .row.justify-content-center
       .col-md-10
         .crd.crd--avatarHorizontal.py-4
@@ -161,7 +150,7 @@
               h5 Estándares  
               p Los estándares de ciberseguridad son técnicas generalmente establecidas y publicadas que permiten proteger el entorno cibernético de un usuario u organización, siempre y cuando se cumpla esa normatividad.
 
-    h4.mt-5 10.5.2 Normatividad en seguridad informática
+    h3.mt-5 Normatividad en seguridad informática
     p.mt-5.mb-5 Son estándares de confiabilidad, supervisados por el equipo de Tecnologías de la Información y mantenidos por buenas prácticas. En este punto delimitamos la siguiente normativa:
 
     .row.justify-content-center      
@@ -174,7 +163,7 @@
             .row.justify-content-center.px-5
               p Las normas más utilizadas para esta finalidad pertenecen a la familia ISO/IEC 27000. La Norma ISO 27000 es una familia de normas que definen cómo implementar un Sistema de Gestión de Seguridad de la Información (SGSI) en una empresa, creada por la Organización Internacional de Normalización (ISO).
 
-          div(titulo="ISO / IEC 27001– Sistemas de Gestión de Seguridad de la Informacióno").p-2
+          div(titulo="ISO / IEC 27001– Sistemas de Gestión de Seguridad de la Información").p-2
             .row.justify-content-center.px-5        
               p Norma que define cómo planificar y verificar un SGSI. Tras un análisis de riesgo, planifica acciones que mitigarán estos riesgos. Sus procedimientos abarcan rubros legales, físicos y técnicos. Especifica formalmente un sistema de gestión destinada a brindar seguridad de la información bajo control explícito de gestión. Se trata de los requisitos necesarios para que exista un Sistema de Gestión de Seguridad de la Información (SGSI).
 

@@ -7,17 +7,14 @@
         span.text-white 8
       h1 Procedimientos administrativos de adquisición
     
-    .row.justify-content-center.mt-5
-      .col-md-11.mt-5
-        .cajon.color-secundario.color-secundario-cajon-verde.p-3
-          .row.justify-content-center.p-3 
-            .col-md-8
-             p.mb-5 Los equipos tecnológicos adquiridos por una empresa, por lo general tendrán un período de obsolescencia no mayor a 5 años. El Departamento de Sistemas – TICS, apoyado en las solicitudes de las dependencias, dará su opinión para el reemplazo de estos equipos, los cuales serán enviados a bodega para ser dados de baja del inventario de #[i hardware] y el #[i software].
-             p Llevar a cabo la emisión del concepto técnico también incluye datos de costo y beneficios e innovación en cuanto a los equipos tecnológicos en una compañía. A partir de esa información, el departamento indicado anteriormente se encargará de elaborar un plan o procedimiento administrativo para la adquisición de nuevos elementos tecnológicos que conllevan a la actualización de la infraestructura de las Tecnologías.
-            .col-md-4
-              .img-cajon-5 
-                figure
-                  img(src='@/assets/curso/temas/tema8/img1.png', alt='alt') 
+
+    .row.justify-content-center.align-items-center.p-3.bg8
+      .col-md-8.my-3
+        p Los equipos tecnológicos adquiridos por una empresa, por lo general tendrán un período de obsolescencia no mayor a 5 años. El Departamento de Sistemas – TICS, apoyado en las solicitudes de las dependencias entrega un concepto técnico, es decir, da su opinión para el reemplazo de estos equipos, los cuales son enviados a bodega para ser dados de baja del inventario de <i>hardware</i> y <i>software</i>.
+        p.mb-0 Llevar a cabo la emisión del concepto técnico también incluye datos de costo, beneficios e innovación, en cuanto a los equipos tecnológicos en una compañía. A partir de esa información, el departamento indicado anteriormente, se encargará de elaborar un plan o procedimiento administrativo para la adquisición de nuevos elementos tecnológicos, que conllevan a la actualización de la infraestructura de las tecnologías.
+      .col-md-4.my-3
+        img.img-a.img-t(src='@/assets/curso/temas/tema8/img1.png', alt='alt') 
+    .row.justify-content-center.align-items-center    
       .col-md-5.mt-5
         figure
           img(src='@/assets/curso/temas/tema8/img2.png', alt='alt')         
@@ -61,45 +58,43 @@
         figure
           img(src='@/assets/curso/temas/tema8/img4.png', alt='alt') 
 
-    <separador></separador>
-    #t_8_2.titulo-segundo.color-primario.mt-5
-      h2 8.2 Principios
+    h3(data-aos="fade-right").mt-5 Principios para el procedimiento
 
-    p.mt-5.mb-5 Los principios para tener en cuenta para el procedimiento administrativo de adquisición del #[i hardware] y #[i software] en una compañía son los siguientes de cara a la elección:                     
+    p.mt-5.mb-5 Los principios a tener en cuenta para el procedimiento administrativo de adquisición del <i>hardware</i> y <i>software</i> en una compañía, son los siguientes:                
 
       AcordionA(tipo="b" clase-tarjeta="bg_slyder_acordeon").mt-5
         .row(titulo="Flexibilidad:")
           .col-md-7.mb-4.mb-md-0.mt-5
-            p es la capacidad que tienen tanto el #[i software] como el #[i hardware] para adaptarse a múltiples propósitos en lugar de una sola función
-            p Los productos flexibles de #[i hardware] y #[i software] proporcionan un valor adicional, ya que se pueden usar de muchas maneras diferentes.
+            p Es la capacidad que tienen, tanto el <i>software</i> como el <i>hardware</i>, para adaptarse a múltiples propósitos en lugar de una sola función.  
+            p Los productos flexibles de <i>hardware</i> y <i>software</i> proporcionan un valor adicional, ya que se pueden usar de maneras diferentes.
           .col-md-5
             figura(data-aos="fade-left")
               img(src='@/assets/curso/temas/tema8/img5.png', alt='')
 
         .row(titulo="Escalabilidad:")
           .col-md-7.mb-4.mb-md-0.mt-5
-            p capacidad de adaptación y respuesta que tiene el #[i hardware] o #[i software] con respecto al rendimiento de este a medida que aumentan de forma significativa el número de usuarios. La escalabilidad de un sistema es un aspecto complejo e importante del diseño, ya que se debe agregar hardware adicional o actualizar el existente sin modificar mucho la aplicación.            
+            p Capacidad de adaptación y respuesta que tiene el <i>hardware</i> o <i>software</i> con respecto al rendimiento de este, a medida que aumentan de forma significativa el número de usuarios. La escalabilidad de un sistema es un aspecto complejo e importante del diseño, ya que se debe agregar <i>hardware</i> adicional o actualizar el existente sin modificar mucho la aplicación.           
           .col-md-5
             figura
               img(src='@/assets/curso/temas/tema8/img6.png', alt='')
         
         .row(titulo="Seguridad:")
           .col-md-7.mb-4.mb-md-0.mt-5
-            p protección propia tanto del #[i hardware] como del #[i software] ante las amenazas que podría afectar a equipos y programas.  El número de programas y/o aplicaciones que añadimos a nuestros computadores guardan todo tipo de información relevante sobre nosotros, un historial significativo de las consultas y visitas a los diferentes sitios de la web y el trabajo de las diferentes aplicaciones para realizar tareas a diario. Impedir que cualquier persona pueda acceder a ellos y robarnos nuestros datos es un campo fundamental de la ciberseguridad. 
+            p Protección propia tanto del <i>hardware</i> como del <i>software</i> ante las amenazas que podría afectar a equipos y programas.  El número de programas y/o aplicaciones que añadimos a nuestros computadores guardan todo tipo de información relevante sobre nosotros, un historial significativo de las consultas y visitas a los diferentes sitios de la web y el trabajo de las diferentes aplicaciones para realizar tareas a diario. Impedir que cualquier persona pueda acceder a ellos y robarnos nuestros datos es un campo fundamental de la ciberseguridad. 
           .col-md-5
             figura
               img(src='@/assets/curso/temas/tema8/img7.png', alt='')              
 
         .row(titulo="Sencillez:")
           .col-md-7.mb-4.mb-md-0.mt-5
-            p capacidad de comprensión, facilidad en el manejo y adaptabilidad gráfica de interpretación en el manejo del entorno y de la información que es suministrada para ser procesada e interpretada por el usuario final.
+            p Capacidad de comprensión, facilidad en el manejo y adaptabilidad gráfica de interpretación del entorno y de la información que es suministrada, para ser procesada y asimilada por el usuario final.
           .col-md-5
             figura
               img(src='@/assets/curso/temas/tema8/img8.png', alt='')    
 
         .row(titulo="Fiabilidad:")
           .col-md-7.mb-4.mb-md-0.mt-5
-            p capacidad de buen funcionamiento o rendimiento que tienen tanto el #[i hardware] como el #[i software]. Para ello el estudio en su adquisición que involucran ciertas características que poseen en cuanto a marca y configuración potencializarán esta cualidad de fiabilidad.  
+            p Capacidad de buen funcionamiento o rendimiento que tienen tanto el <i>hardware</i> como el <i>software</i>. Para ello, en el estudio de adquisición, se involucran ciertas características que poseen en cuanto a marca y configuración que potencializarán esta cualidad de fiabilidad.  
           .col-md-5
             figura
               img(src='@/assets/curso/temas/tema8/img10.png', alt='')   

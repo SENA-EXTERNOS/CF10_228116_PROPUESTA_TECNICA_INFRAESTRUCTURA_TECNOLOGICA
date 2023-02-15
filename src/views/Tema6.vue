@@ -6,9 +6,9 @@
       .titulo-principal__numero
         span.text-white 6
       h1 Prueba de funcionamiento
-    p Una prueba de funcionamiento es la que determina el estado, funcionamiento y el propósito de la creación de un producto o servicio.  En el caso de las computadoras y los programas, es fundamental este proceso, ya que a través de esta prueba de funcionamiento se  permite identificar los requisitos para lo que fue creado y para el propósito claro de su uso y funcionalidad.  
-    #t_6_1.titulo-segundo.color-primario.mt-5
-      h2 6.1 Técnicas
+    p Una prueba de funcionamiento es la que determina el estado, funcionamiento y el propósito de la creación de un producto o servicio.  En el caso de las computadoras y los programas, es fundamental este proceso, ya que a través de esta prueba de funcionamiento se  permite identificar los requisitos para lo que fue creado y para el propósito claro de su uso y funcionalidad.
+
+    h3(data-aos="fade-right").mt-5 Técnicas
 
     .row.justify-content-center.mb-5
       .col-md-12
@@ -21,9 +21,7 @@
             p Para llevar a cabo estas pruebas de funcionamiento técnicas se debe seguir una lista de chequeo para revisar el funcionamiento técnico de cada una de sus partes en el caso de la máquina o del #[i hardware.] <br><br>
             p Para los programas o #[i software] se implementa de la misma manera una lista de chequeo o #[i Check List], la cual suele ser utilizada para la realización de comprobaciones rutinarias con el fin de verificar el funcionamiento a partir de una instalación correcta o limpia en el computador.
 
-    <separador></separador>
-    #t_6_2.titulo-segundo.color-primario.mt-5
-      h2 6.2 Procedimiento de prueba
+    h3(data-aos="fade-right").mt-5 Procedimiento de prueba
 
     p.mt-5.mb-5 Permite asegurar que cada componente de un sistema esté operando como debe y que el sistema esté funcionando de acuerdo con los requerimientos locales específicos. Un programa de prueba integral y bien estructurado es aquel que asegura que todos los componentes del sistema sean probados.             
     p.mb-5 Para la mayoría de los componentes tecnológicos se debe preparar una estrategia de prueba muy estructurada y cuidadosa antes de recibir los productos para efectuar las pruebas; la cual debe ser diseñada para probar que el producto ejecuta debidamente todas las funciones requeridas conforme a las especificaciones. Entre los pasos que puede comprender la estrategia para probar la nueva tecnología, se pueden considerar los siguientes:

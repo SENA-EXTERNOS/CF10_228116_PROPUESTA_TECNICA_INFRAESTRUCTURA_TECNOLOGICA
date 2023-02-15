@@ -6,23 +6,25 @@
       .titulo-principal__numero
         span.text-white 7
       h1 Inventarios para #[i Hardware] y #[i Software]
-    p Un inventario para  #[i hardware], y tanto para #[i software], se conoce como el instrumento que recopila toda la información sobre los componentes físicos y lógicos de los diferentes dispositivos electrónicos y redes informáticas; es una lista detallada de todo el #[i hardware] y el #[i software] utilizado en una organización.
+
+
+    p Un inventario para <i>hardware</i> y <i>software</i> se define como el instrumento que recopila toda la información sobre los componentes físicos y lógicos de los diferentes dispositivos electrónicos y redes informáticas. Es una lista detallada de todo el <i>hardware</i> y el <i>software</i> utilizado en una organización.
    
     .row.justify-content-center.mt-5
       .col-md-10
         figure
           img(src='@/assets/curso/temas/tema7/img3.svg', alt='alt')     
 
-    .row.justify-content-center.mt-5 
+    p.mt-5 En el siguiente video se mostrará la relevancia que tiene este tipo de inventario para cualquier empresa, se plantean sus características y la manera de crearlo:
+    .row.justify-content-center
       figure.mt-5.mb-5
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    
+    h3(data-aos="fade-right").mt-5 Inventario de #[i hardware]     
      
     .row.justify-content-center.bg_acordeon_tema7.mg-img.mt-5.img-img-gris.t-img 
-      p.mb-5.mt-5.px-5 Para el inventario de #[i hardware] se requiere usar el modelo clásico de inventarios. Los diferentes campos de una tabla de Excel deben tener:   
-      .col-md-4
+      p.mb-5.mt-5.px-5 Para el inventario de <i>hardware</i> se puede usar el modelo clásico de inventarios realizado en una hoja de cálculo. Los diferentes campos de una tabla, en un programa como Excel, deben tener:
         figure
           img(src='@/assets/curso/temas/tema7/img2.png', alt='alt')       
       .col-md-6 
@@ -52,7 +54,9 @@
             .row.justify-content-center        
               p Número de productos que se poseen con esas características. 
 
-    p.mt-5.mb-5  Por su parte, el inventario de #[i hardware] puede desglosarse tanto como consideremos, incluyendo los datos técnicos de la CPU, placa base, RAM, entre otros. Acá se encuentra toda la información que nos ayude a controlar el estado de los elementos que forman el TI de la empresa.                                      
+    p.mt-5.mb-5  Por su parte, el inventario de #[i hardware] puede desglosarse tanto como consideremos, incluyendo los datos técnicos de la CPU, placa base, RAM, entre otros. Acá se encuentra toda la información que nos ayude a controlar el estado de los elementos que forman el TI de la empresa.      
+
+    h3(data-aos="fade-right").mt-5 Inventario de #[i software]                                 
     .row.justify-content-center.mb-5
       .col-md-12
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
@@ -61,7 +65,7 @@
           )                             
           .bloque-texto-g__texto.p-4
             p Una vez hemos realizado el inventario de #[i hardware] se puede complementar con el inventario de #[i software], lo cual es útil para controlar todos los programas informáticos que hemos adquirido y de los cuales poseemos licencia de uso. De este modo, se anotaría el número de licencia, fecha de uso, número de usuarios dados de alta y el precio de dicha licencia.
-            
+    h3(data-aos="fade-right").mt-5 <i>Softwares</i> para crear inventarios
     .row.justify-content-center.bg_final.mg-img.mt-5.mg-img-final.t-img 
       .col-md-7.px-5
         p Hoy en día existen varias compañías que ofrecen #[i software] para realizar inventarios a la red, elementos tecnológicos y programas que conforman el departamento de las tecnologías de la información y comunicación en una pequeña, mediana o grande empresa.  Entre ellos tenemos para empresas grandes:  
