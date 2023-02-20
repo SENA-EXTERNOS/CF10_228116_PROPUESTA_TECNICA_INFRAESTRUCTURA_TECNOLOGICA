@@ -15,7 +15,8 @@
           )                             
           .bloque-texto-g__texto.p-4
             p El cuadro comparativo es un instrumento de estudio que permite hacer comparaciones visuales de un elemento, posibilitando comprender y determinar sus ventajas y desventajas. Posee entre dos o más elementos, productos o servicios, de manera general, donde se visualiza la mejor alternativa a elegir.
-
+            br
+            br
             p Está representado por una tabla en donde se organiza la información de forma ordenada, mediante columnas o cabeceras que incluyen elementos a comparar entre sí y filas que hacen referencia al concepto o descripción de cada variable, haciendo posible identificar las semejanzas y diferencias de dos o más conceptos, elementos o hechos, facilitando el procesamiento de los datos.
 
     
@@ -27,13 +28,16 @@
           .col-md-7.mb-4.mb-md-0
             p Se utiliza básicamente para comparar la información con el fin de facilitar la identificación de las características semejantes y diferentes en los conceptos.
             p Suelen usarse para:
-            ol.lista-ol--cuadro
-              li.ps-2 
-                p.mb-0.ps-2 #[b >] Adquirir nuevos conocimientos y para memorizar contenidos de forma fácil, clara y rápida.
-              li.ps-2 
-                p.mb-0.ps-2 #[b >] Ayuda a organizar el pensamiento.  
-              li.ps-2 
-                p.mb-0.ps-2 #[b >] Permite clasificar y categorizar la información.                           
+            ol.lista-ul
+              li 
+                i.fas.fa-angle-right
+                p.mb-0 Adquirir nuevos conocimientos y para memorizar contenidos de forma fácil, clara y rápida.
+              li 
+                i.fas.fa-angle-right
+                p.mb-0 Ayuda a organizar el pensamiento.  
+              li 
+                i.fas.fa-angle-right
+                p.mb-0 Permite clasificar y categorizar la información.                           
           .col-md-5
             figura(data-aos="fade-left")
               img(src='@/assets/curso/temas/tema2/img2.svg', alt='')
@@ -41,15 +45,19 @@
         .row(titulo="Elaboración")
           .col-md-7.mb-4.mb-md-0
             p Para elaborar un cuadro comparativo se debe tener en cuenta lo siguiente:
-            ol.lista-ol--cuadro
-              li.ps-2 
-                p.mb-0.ps-2 #[b >] Identificar los elementos que se desean comparar.
-              li.ps-2 
-                p.mb-0.ps-2 #[b >] Enmarcar o determinar los parámetros a comparar.  
-              li.ps-2 
-                p.mb-0.ps-2 #[b >] Identificar y escribir las características de cada concepto, hecho o elemento a comprar.  
-              li.ps-2 
-                p.mb-0.ps-2 #[b >] Enunciar afirmaciones de semejanzas y diferencias más relevantes de los conceptos comparados.
+            ol.lista-ul
+              li 
+                i.fas.fa-angle-right
+                p.mb-0 Identificar los elementos que se desean comparar.
+              li 
+                i.fas.fa-angle-right
+                p.mb-0 Enmarcar o determinar los parámetros a comparar.  
+              li 
+                i.fas.fa-angle-right
+                p.mb-0 Identificar y escribir las características de cada concepto, hecho o elemento a comprar.  
+              li 
+                i.fas.fa-angle-right
+                p.mb-0 Enunciar afirmaciones de semejanzas y diferencias más relevantes de los conceptos comparados.
           .col-md-5
             figura(data-aos="fade-left")
               img(src='@/assets/curso/temas/tema2/img3.svg', alt='')

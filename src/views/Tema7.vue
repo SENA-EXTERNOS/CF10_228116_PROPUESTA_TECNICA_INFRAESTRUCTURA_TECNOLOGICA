@@ -11,7 +11,7 @@
     p Un inventario para <i>hardware</i> y <i>software</i> se define como el instrumento que recopila toda la información sobre los componentes físicos y lógicos de los diferentes dispositivos electrónicos y redes informáticas. Es una lista detallada de todo el <i>hardware</i> y el <i>software</i> utilizado en una organización.
    
     .row.justify-content-center.mt-5
-      .col-md-10
+      .col-md-12
         figure
           img(src='@/assets/curso/temas/tema7/img3.svg', alt='alt')     
 

@@ -57,13 +57,16 @@
             img(src='@/assets/curso/temas/tema1/img5.png', alt='alt')  
           .col-md-8          
             p Para la elaboración de una ficha técnica se debe tener en cuenta lo siguiente:
-            ol.lista-ol--cuadro
-              li.ps-2 
-                p.mb-0.ps-2 #[b >] Los elementos que contiene de un producto pueden variar según la categoría, el sector empresarial, la marca y el público objetivo. Es por ese motivo que uno de los pasos más importantes para definir qué especificaciones incluir en la ficha técnica de un producto es la selección de la información que puede resultar más relevante para los consumidores. Además, el formato de la ficha técnica de un producto también está sujeto a las regulaciones y normas del comercio local e internacional.  
-              li.ps-2 
-                p.mb-0.ps-2 #[b >] Es necesario presentar las características más importantes de lo que se está vendiendo, es decir, se deben incluir todos los puntos que definen el producto y que les permiten a los consumidores tener claro todo lo que necesitan saber sobre él.
-              li.ps-2 
-                p.mb-0.ps-2 #[b >] Si se trata de un #[i e-commerce ], la ficha de un producto debe servir para atraer a los clientes que suelen adquirir productos y servicios de forma online. Es necesario que la ficha esté optimizada para aparecer en las búsquedas de los usuarios, ya que de esta manera es más sencillo llegar al público meta (Machuca, 2022).
+            ol.lista-ul
+              li 
+                i.fas.fa-angle-right
+                p.mb-0 Los elementos que contiene de un producto pueden variar según la categoría, el sector empresarial, la marca y el público objetivo. Es por ese motivo que uno de los pasos más importantes para definir qué especificaciones incluir en la ficha técnica de un producto es la selección de la información que puede resultar más relevante para los consumidores. Además, el formato de la ficha técnica de un producto también está sujeto a las regulaciones y normas del comercio local e internacional.  
+              li 
+                i.fas.fa-angle-right
+                p.mb-0 Es necesario presentar las características más importantes de lo que se está vendiendo, es decir, se deben incluir todos los puntos que definen el producto y que les permiten a los consumidores tener claro todo lo que necesitan saber sobre él.
+              li 
+                i.fas.fa-angle-right
+                p.mb-0 Si se trata de un #[i e-commerce ], la ficha de un producto debe servir para atraer a los clientes que suelen adquirir productos y servicios de forma online. Es necesario que la ficha esté optimizada para aparecer en las búsquedas de los usuarios, ya que de esta manera es más sencillo llegar al público meta (Machuca, 2022).
 
 
       

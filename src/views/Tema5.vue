@@ -32,7 +32,7 @@
           .col-md-6.mb-4.mb-md-0
             img(src="@/assets/curso/temas/tema5/img7.png" alt="")        
           .col-md-6.mb-4.mb-md-0.text-m-t
-            p A qué se tiene derecho si producto adquirido presenta fallas. Por ejemplo, cambio del producto, reparación, entre otros.
+            p A qué se tiene derecho si el producto adquirido presenta fallas. Por ejemplo, cambio del producto, reparación, entre otros.
 
       .py-4.py-md-5(titulo="Derecho de desistimiento" :icono="require('@/assets/curso/temas/tema5/img4.png')")
         .row.px-4
