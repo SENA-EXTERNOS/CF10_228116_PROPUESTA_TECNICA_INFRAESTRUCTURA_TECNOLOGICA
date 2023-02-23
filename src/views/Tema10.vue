@@ -48,7 +48,7 @@
               img(src='@/assets/curso/temas/tema10/img3.png', alt='')
           .col-md-6.mb-4.mb-md-0.mt-5
             p Esta protección es clave para asegurar la integridad de los datos que se encuentran en los programas y aplicaciones.  Evita contaminar la información de los ataques de #[i hackers] o programas maliciosos (como los virus). 
-            p Existen numerosos programas que están especializados en esta área y en sus distintas variantes. Algunas de ellas son el control de acceso; protección frente a virus y #[i malwares; firewalls], detección de usuarios no deseados, entre otras más funciones.  Algunos #[i softwares] de seguridad informática son Balbix, Aircrack, Bricata, BeEF, Cain and Abel, Could Defencer, Burp Suite Scanner o GNU MAC Manager.
+            p Existen numerosos programas que están especializados en esta área y en sus distintas variantes. Algunas de ellas son el control de acceso; protección frente a virus y #[i malwares; firewalls], detección de usuarios no deseados, entre otras más funciones.  Algunos #[i softwares] de seguridad informática son Balbix, Aircrack, Bricata, BeEF, <i>Cain and Abel, Could Defencer, Burp Suite Scanner</i> o GNU MAC Manager.
       .py-3.py-md-4(titulo="Seguridad de la red")
         .row.px-4
           .col-md-6
