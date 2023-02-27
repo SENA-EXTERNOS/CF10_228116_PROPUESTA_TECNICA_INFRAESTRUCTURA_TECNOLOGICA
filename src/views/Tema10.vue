@@ -99,7 +99,7 @@
           li 
             .lista-ol--cuadro__vineta
               span 3
-            span.text-bold Crear y hacer uso de contraseñas fuertes y seguras:  
+            span Crear y hacer uso de contraseñas fuertes y seguras:  
               span.text-regular Construir varias contraseñas en las que use minúsculas, mayúsculas, números y caracteres especiales.
           li 
             .lista-ol--cuadro__vineta

@@ -27,7 +27,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema9/img2.png')})`}"
           )                             
           .bloque-texto-g__texto.p-4
-            p Los protocolos en el procedimiento logístico de una organización permiten activar diferentes alertas que se presenten de acuerdo con cada departamento involucrado y de la mesa logística.<br><br>
+            p Los protocolos en el procedimiento logístico de una organización, permiten activar diferentes alertas que se presenten de acuerdo con cada departamento involucrado y de la mesa logística.<br><br>
             p Estas alertas pueden ser, según la complejidad del caso:<br><br>
             ol.lista-ol--cuadro
               li 

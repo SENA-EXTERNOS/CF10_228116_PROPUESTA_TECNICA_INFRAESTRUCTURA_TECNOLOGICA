@@ -24,8 +24,8 @@
     p Partiendo de lo anterior, se explorarán los usos y la elaboración de un cuadro comparativo:
     .row.justify-content-center.mt-5
       AcordionA(tipo="b" clase-tarjeta="bg_slyder_acordeon")
-        .row(titulo="Usos")
-          .col-md-7.mb-4.mb-md-0
+        .row.justify-content-center(titulo="Usos")
+          .col-md-6.mb-4.mb-md-0
             p Se utiliza básicamente para comparar la información con el fin de facilitar la identificación de las características semejantes y diferentes en los conceptos.
             p Suelen usarse para:
             ol.lista-ul
@@ -41,8 +41,8 @@
           .col-md-5
              img(src='@/assets/curso/temas/tema2/img2.svg', alt='')
 
-        .row(titulo="Elaboración")
-          .col-md-7.mb-4.mb-md-0
+        .row.justify-content-center(titulo="Elaboración")
+          .col-md-6.mb-4.mb-md-0
             p Para elaborar un cuadro comparativo se debe tener en cuenta lo siguiente:
             ol.lista-ul
               li 

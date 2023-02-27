@@ -25,8 +25,8 @@
      
     .row.justify-content-center.bg_acordeon_tema7.mg-img.mt-5.img-img-gris.t-img 
       p.mb-5.mt-5.px-5 Para el inventario de <i>hardware</i> se puede usar el modelo clásico de inventarios realizado en una hoja de cálculo. Los diferentes campos de una tabla, en un programa como Excel, deben tener:
-        figure
-          img(src='@/assets/curso/temas/tema7/img2.png', alt='alt')       
+      .col-md-6       
+        img.img-a.img-t(src='@/assets/curso/temas/tema7/img2.png', alt='alt')       
       .col-md-6 
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-acordeon").mt-5
           .row(titulo="ID del producto").p-2
