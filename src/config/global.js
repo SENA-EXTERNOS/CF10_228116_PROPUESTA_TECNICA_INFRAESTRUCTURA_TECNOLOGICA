@@ -285,11 +285,6 @@ export default {
     },
     {
       referencia:
-        'Carvajal C., (2019) “La encriptación de datos empresariales: ventajas y desventajas” obtenido en la red mundial el 22 de octubre del 2021',
-      link: ' https://recimundo.com/~recimund/index.php/es/article/view/487',
-    },
-    {
-      referencia:
         'Carvajal, T., (2018) “Tecnologías, seguridad informática y derechos humanos” obtenido en la red mundial el 28 de septiembre del 2021',
       link: 'http://dx.doi.org/10.12795/IETSCIENTIA.2018.i01.03',
     },

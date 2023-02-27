@@ -17,7 +17,7 @@
             .row.justify-content-center.p-3 
               p La importancia de la seguridad informática según la autora Agustina (2019):
               p “Los sistemas pueden contener datos confidenciales, información sobre los procesos y operaciones organizacionales, planes estratégicos y de negocios, secretos comerciales y demás información de vital importancia. Sin embargo, el valor de dicha información se pierde en gran escala si la misma es conocida por personas externas a la empresa”. (p.24)
-              p La seguridad informática tiene un papel muy esencial para las empresas, ya que cuida la privacidad, administra y organiza la información, como el autor Carvajal lo menciona (2019): #[b #[i “En un mundo en el que las tecnologías de la información y comunicación (TIC) parecen estar presentes en casi todas nuestras actividades diarias poco se ha reflexionado sobre los riesgos que pueden representar las mismas para los seres humanos” (p.19)]].     
+              p La seguridad informática tiene un papel muy esencial para las empresas, ya que cuida la privacidad, administra y organiza la información, como el autor Carvajal lo menciona (2018): #[b #[i “En un mundo en el que las tecnologías de la información y comunicación (TIC) parecen estar presentes en casi todas nuestras actividades diarias poco se ha reflexionado sobre los riesgos que pueden representar las mismas para los seres humanos” (p.19)]].     
         p.mt-5 Un sistema de gestión de seguridad de la información nos va a permitir:
          ol.lista-ol--cuadro
             li 
