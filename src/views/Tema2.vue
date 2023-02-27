@@ -39,8 +39,7 @@
                 i.fas.fa-angle-right
                 p.mb-0 Permite clasificar y categorizar la información.                           
           .col-md-5
-            figura(data-aos="fade-left")
-              img(src='@/assets/curso/temas/tema2/img2.svg', alt='')
+             img(src='@/assets/curso/temas/tema2/img2.svg', alt='')
 
         .row(titulo="Elaboración")
           .col-md-7.mb-4.mb-md-0
@@ -59,8 +58,7 @@
                 i.fas.fa-angle-right
                 p.mb-0 Enunciar afirmaciones de semejanzas y diferencias más relevantes de los conceptos comparados.
           .col-md-5
-            figura(data-aos="fade-left")
-              img(src='@/assets/curso/temas/tema2/img3.svg', alt='')
+             img(src='@/assets/curso/temas/tema2/img3.svg', alt='')
 
 
 </template>
