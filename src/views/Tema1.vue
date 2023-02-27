@@ -42,31 +42,28 @@
 
     p.mt-5.mb-5 A continuación, exploraremos los usos y la elaboración de una ficha técnica.
     AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-acordeon").mt-5
-      .row(titulo="Usos").p-2
-        .row.justify-content-center
-          .col-md-4
-           figure(data-aos="fade-left")
-            img(src='@/assets/curso/temas/tema1/img4.png', alt='alt')             
-          .col-md-8
-            p.mb-5 El uso de una ficha técnica, que involucra elementos de tecnología como dispositivos de #[i hardware] (máquina) y de #[i software] (programas), es bastante importante, ya que da una versión o panorama general y detalles específicos acerca del producto en cuanto a su composición, estructura física o intangible, funciones y su adecuada utilización, en busca de la calidad.
-            p En un sistema de gestión de calidad suele aplicarse el uso de la ficha técnica a los productos, objetos o servicios, con el fin de tener un cliente satisfecho.
-      div(titulo="Elaboración").p-2
-        .row.justify-content-center
-          .col-md-4
-           figure(data-aos="fade-left")
-            img(src='@/assets/curso/temas/tema1/img5.png', alt='alt')  
-          .col-md-8          
-            p Para la elaboración de una ficha técnica se debe tener en cuenta lo siguiente:
-            ol.lista-ul
-              li 
-                i.fas.fa-angle-right
-                p.mb-0 Los elementos que contiene de un producto pueden variar según la categoría, el sector empresarial, la marca y el público objetivo. Es por ese motivo que uno de los pasos más importantes para definir qué especificaciones incluir en la ficha técnica de un producto es la selección de la información que puede resultar más relevante para los consumidores. Además, el formato de la ficha técnica de un producto también está sujeto a las regulaciones y normas del comercio local e internacional.  
-              li 
-                i.fas.fa-angle-right
-                p.mb-0 Es necesario presentar las características más importantes de lo que se está vendiendo, es decir, se deben incluir todos los puntos que definen el producto y que les permiten a los consumidores tener claro todo lo que necesitan saber sobre él.
-              li 
-                i.fas.fa-angle-right
-                p.mb-0 Si se trata de un #[i e-commerce ], la ficha de un producto debe servir para atraer a los clientes que suelen adquirir productos y servicios de forma online. Es necesario que la ficha esté optimizada para aparecer en las búsquedas de los usuarios, ya que de esta manera es más sencillo llegar al público meta (Machuca, 2022).
+      .row.justify-content-center(titulo="Usos").p-2
+        .col-md-4
+          img.img-a.img-t(src='@/assets/curso/temas/tema1/img4.png', alt='alt')            
+        .col-md-7
+          p.mb-5 El uso de una ficha técnica, que involucra elementos de tecnología como dispositivos de #[i hardware] (máquina) y de #[i software] (programas), es bastante importante, ya que da una versión o panorama general y detalles específicos acerca del producto en cuanto a su composición, estructura física o intangible, funciones y su adecuada utilización, en busca de la calidad.
+          p En un sistema de gestión de calidad suele aplicarse el uso de la ficha técnica a los productos, objetos o servicios, con el fin de tener un cliente satisfecho.
+
+      .row.justify-content-center(titulo="Elaboración").p-2
+        .col-md-4
+          img.img-a.img-t(src='@/assets/curso/temas/tema1/img5.png', alt='alt')  
+        .col-md-7          
+          p Para la elaboración de una ficha técnica se debe tener en cuenta lo siguiente:
+          ol.lista-ul
+            li 
+              i.fas.fa-angle-right
+              p.mb-0 Los elementos que contiene de un producto pueden variar según la categoría, el sector empresarial, la marca y el público objetivo. Es por ese motivo que uno de los pasos más importantes para definir qué especificaciones incluir en la ficha técnica de un producto es la selección de la información que puede resultar más relevante para los consumidores. Además, el formato de la ficha técnica de un producto también está sujeto a las regulaciones y normas del comercio local e internacional.  
+            li 
+              i.fas.fa-angle-right
+              p.mb-0 Es necesario presentar las características más importantes de lo que se está vendiendo, es decir, se deben incluir todos los puntos que definen el producto y que les permiten a los consumidores tener claro todo lo que necesitan saber sobre él.
+            li 
+              i.fas.fa-angle-right
+              p.mb-0 Si se trata de un #[i e-commerce ], la ficha de un producto debe servir para atraer a los clientes que suelen adquirir productos y servicios de forma online. Es necesario que la ficha esté optimizada para aparecer en las búsquedas de los usuarios, ya que de esta manera es más sencillo llegar al público meta (Machuca, 2022).
 
 
       
