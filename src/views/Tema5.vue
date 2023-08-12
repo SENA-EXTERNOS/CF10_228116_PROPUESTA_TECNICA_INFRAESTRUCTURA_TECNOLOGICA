@@ -77,7 +77,7 @@
     .row.justify-content-center.mt-5
       .col-md-11.bg_cajon.mt-5
           .row.justify-content-end.p-3
-            .col-md-7.mt-4
+            .col-xl-7.mt-4
               p.text-bold Tanto la utilidad como la garantía son esenciales para que un servicio facilite los resultados deseados y, por lo tanto, ayude a crear valor.
               p Por ejemplo, un parque temático recreativo puede ofrecer muchas atracciones diseñadas para brindar experiencias emocionantes a los visitantes del parque (servicios públicos), pero sí una cantidad significativa de atracciones no está disponible con frecuencia, debido a dificultades mecánicas, el parque no está cumpliendo con la garantía (es no apto para su uso) y los  consumidores no recibirán el valor esperado. 
               p Asimismo, si las atracciones están siempre en funcionamiento durante las horas anunciadas, pero no tienen características que brinden los niveles de emoción esperados por los visitantes, la utilidad no se cumple aunque la garantía sea suficiente. Nuevamente, los consumidores no recibirían el valor esperado.                       
