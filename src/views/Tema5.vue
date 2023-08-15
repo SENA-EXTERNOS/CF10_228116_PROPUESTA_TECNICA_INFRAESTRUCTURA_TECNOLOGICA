@@ -74,13 +74,13 @@
     h3 Utilidad
     p.mt-5.mb-5  Es la funcionalidad que ofrece un producto o servicio para satisfacer una necesidad particular. Se utiliza para determinar si un servicio es «adecuado para su propósito». Para tener utilidad, un servicio debe respaldar el desempeño del consumidor o eliminar las limitaciones del consumidor; muchos servicios hacen ambas cosas.
     p(data-aos="fade-right") ¿Cómo se relacionan la utilidad y la garantía?
-    .row.justify-content-center.mt-5
-      .col-md-11.bg_cajon.mt-5
-          .row.justify-content-end.p-3
-            .col-xl-7.mt-4
-              p.text-bold Tanto la utilidad como la garantía son esenciales para que un servicio facilite los resultados deseados y, por lo tanto, ayude a crear valor.
-              p Por ejemplo, un parque temático recreativo puede ofrecer muchas atracciones diseñadas para brindar experiencias emocionantes a los visitantes del parque (servicios públicos), pero sí una cantidad significativa de atracciones no está disponible con frecuencia, debido a dificultades mecánicas, el parque no está cumpliendo con la garantía (es no apto para su uso) y los  consumidores no recibirán el valor esperado. 
-              p Asimismo, si las atracciones están siempre en funcionamiento durante las horas anunciadas, pero no tienen características que brinden los niveles de emoción esperados por los visitantes, la utilidad no se cumple aunque la garantía sea suficiente. Nuevamente, los consumidores no recibirían el valor esperado.                       
+    .tarjeta(style="background-color:#e4f8fb ").p-4
+      .row.justify-content-center.p-3.align-items-center
+        .col-lg-5.col-8.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema5/c1.png', alt='')
+        .col-lg-7
+          p.text-bold Tanto la utilidad como la garantía son esenciales para que un servicio facilite los resultados deseados y, por lo tanto, ayude a crear valor.
+          p Por ejemplo, un parque temático recreativo puede ofrecer muchas atracciones diseñadas para brindar experiencias emocionantes a los visitantes del parque (servicios públicos), pero sí una cantidad significativa de atracciones no está disponible con frecuencia, debido a dificultades mecánicas, el parque no está cumpliendo con la garantía (es no apto para su uso) y los  consumidores no recibirán el valor esperado. 
+          p Asimismo, si las atracciones están siempre en funcionamiento durante las horas anunciadas, pero no tienen características que brinden los niveles de emoción esperados por los visitantes, la utilidad no se cumple aunque la garantía sea suficiente. Nuevamente, los consumidores no recibirían el valor esperado.                       
             
               
     h3.mt-5 Riesgos
