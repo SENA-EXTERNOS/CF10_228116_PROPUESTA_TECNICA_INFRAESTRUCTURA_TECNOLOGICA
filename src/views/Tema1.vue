@@ -63,7 +63,7 @@
               p.mb-0 Es necesario presentar las características más importantes de lo que se está vendiendo, es decir, se deben incluir todos los puntos que definen el producto y que les permiten a los consumidores tener claro todo lo que necesitan saber sobre él.
             li 
               i.fas.fa-angle-right
-              p.mb-0 Si se trata de un #[i e-commerce ], la ficha de un producto debe servir para atraer a los clientes que suelen adquirir productos y servicios de forma online. Es necesario que la ficha esté optimizada para aparecer en las búsquedas de los usuarios, ya que de esta manera es más sencillo llegar al público meta (Machuca, 2022).
+              p.mb-0 Si se trata de un #[i e-commerce], la ficha de un producto debe servir para atraer a los clientes que suelen adquirir productos y servicios de forma online. Es necesario que la ficha esté optimizada para aparecer en las búsquedas de los usuarios, ya que de esta manera es más sencillo llegar al público meta (Machuca, 2022).
 
 
       

@@ -49,9 +49,9 @@
         LineaTiempoD.color-secundario
           p(numero="1" titulo="Necesidades") Definición de necesidad de informatización (usuarios).
 
-          p(numero="2" titulo="Equipos") Identificación de los equipos (hardware) en los que el software deberá trabajar.
+          p(numero="2" titulo="Equipos") Identificación de los equipos (#[em hardware]) en los que el #[em software] deberá trabajar.
 
-          p(numero="3" titulo="Programas") Selección de los programas (software) adecuados.
+          p(numero="3" titulo="Programas") Selección de los programas (#[em software]) adecuados.
 
           p(numero="4" titulo="Instalación") Instalación, operación y mantenimiento del sistema (#[i hardware, software] y usuarios).       
       .col-md-4

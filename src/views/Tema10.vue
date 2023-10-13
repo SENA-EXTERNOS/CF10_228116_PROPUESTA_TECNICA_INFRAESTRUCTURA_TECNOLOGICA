@@ -147,7 +147,6 @@
               figure
                 img(src="@/assets/curso/temas/tema10/img9.png", alt="alt").img100
             .col
-              h5 Estándares  
               p Los estándares de ciberseguridad son técnicas generalmente establecidas y publicadas que permiten proteger el entorno cibernético de un usuario u organización, siempre y cuando se cumpla esa normatividad.
 
     h3.mt-5 Normatividad en seguridad informática
